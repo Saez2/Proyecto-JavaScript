@@ -1,1 +1,5 @@
 # Inicio proyecto
+
+```
+composer install
+```
